@@ -1,0 +1,34 @@
+Natação-null-A natação é um desporto olímpico?-Verdadeiro,Falso-Verdadeiro
+Ciências-Fácil-Qual é a principal função dos rins no corpo humano?-Digestão de alimentos,Filtração do sangue e excreção de resíduos,Produção de insulina,Circulação sanguínea-Filtração do sangue e excreção de resíduos
+Ciências-Difícil-Qual é a principal função dos rins no corpo humano?-Regulação da pressão arterial,Síntese de vitaminas,Regulação do equilíbrio de água e eletrólitos no corpo,Produção de células vermelhas do sangue-Regulação do equilíbrio de água e eletrólitos no corpo
+Ski-null-Ski é um desporto de equipe?-Verdadeiro,Falso-Falso
+Natação-null-Michael Phelps é o nadador com o maior número de medalhas de ouro olímpicas na história?-Verdadeiro,Falso-Verdadeiro
+Natação-null-A piscina olímpica padrão tem 40 metros de comprimento?-Verdadeiro,Falso-Falso
+Ski-null-Ski é exclusivamente um desporto de inverno?-Verdadeiro,Falso-Falso
+Futebol-Fácil-Quem jogava com o número de camisola 28 pelo Sporting na época 2002/2003?-Cristiano Ronaldo,Jardel,Quaresma,Sá Pinto,Paulo Bento-Cristiano Ronaldo
+Futebol-Difícil-Qual número de camisola usava Cristiano Ronaldo quando se estreou pelo Sporting?-10,7,9,28,14-28
+Ski-null-Existem diferentes tipos de ski, como ski alpino, ski nórdico e ski freestyle?-Verdadeiro,Falso-Verdadeiro
+Artes-null-Quem pintou a Mona Lisa?-Vincent van Gogh,Pablo Picasso,Leonardo da Vinci,Michelangelo-Leonardo da Vinci
+Artes-null-Qual é o nome da famosa pintura que retrata a última ceia de Jesus com seus discípulos?-A Noite Estrelada,A Última Ceia,Guernica,A Persistência da Memória-A Última Ceia
+Ciências-Fácil-O que é a fotossíntese?-Respiração das plantas,Processo de produção de oxigénio,Conversão de luz em energia química,Decomposição de substâncias orgânicas-Conversão de luz em energia química
+Ciências-Difícil-O que é a fotossíntese?-Processo de digestão em plantas,Absorção de nutrientes do solo,Troca gasosa nas folhas,Produção de glicose a partir do dióxido de carbono-Produção de glicose a partir do dióxido de carbono
+Artes-null-Quem é o autor da escultura "O Pensador"?-Auguste Rodin,Michelangelo,Leonardo da Vinci,Donatello-Auguste Rodin
+Ski-null-Ski é um desporto olímpico?-Verdadeiro,Falso-Verdadeiro
+Natação-null-A natação é um dos desportos mais antigos, com evidências de competições na Grécia Antiga?-Verdadeiro,Falso-Verdadeiro
+Ciências-Fácil-Qual é a função principal do sistema nervoso?-Produção de hormonas,Transporte de oxigénio,Controlo de movimentos voluntários,Circulação sanguínea-Controlo de movimentos voluntários
+Ciências-Difícil-Qual é a função principal do sistema nervoso?-Regulação da temperatura corporal,Coordenação de atividades mentais,Digestão de alimentos,Filtração de resíduos no sangue-Coordenação de atividades mentais
+Artes-null-Qual movimento artístico é conhecido por suas formas geométricas abstratas e uso de cores primárias?-Renascimento,Cubismo,Barroco,Rococó-Cubismo
+Ciências-Fácil-O que é um átomo?-A menor unidade de vida,Uma partícula subatómica,Uma molécula de água,Um tipo de célula-A menor unidade de vida
+Ciências-Difícil-O que é um átomo?-Uma partícula carregada negativamente,Um composto químico,Um conjunto de prótões e neutrões,Um elemento básico da matéria-Um elemento básico da matéria
+Ski-null-Ski não requer habilidades de equilíbrio?-Verdadeiro,Falso-Falso
+Futebol-Fácil-Quem foi o único jogador do Sport Lisboa e Benfica a ganhar uma bola de ouro?-Eusébio,Rui Costa,José Águas,Mário Coluna,Chalana-Eusébio
+Futebol-Difícil-Qual número de camisola usava Eusébio quando ganhou a sua bola de ouro?-10,7,9,13,11,14-10
+Ciências-Fácil-Qual é o planeta mais próximo do Sol?-Terra,Vénus,Marte,Mercúrio-Mercúrio
+Ciências-Difícil-Qual é o planeta mais próximo do Sol?-Júpiter,Saturno,Urano,Neptuno-Neptuno
+Natação-null-A piscina olímpica possui 50 metros de comprimento?-Verdadeiro,Falso-Verdadeir
+Futebol-Fácil-Quem ganhou a bola de ouro em 2018?-Módric, Marega, Mantorras, Taremi, Jonas-Módric
+Futebol-Difícil-Em que ano é que o Módric ganhou a bola de ouro?- 1990, 2030, 2018, 2019, 2004-2018
+Futebol-Fácil-Quem o campeonato português de futebol na época 2022/2023- Benfica,Feirense, Académica, Braga, Vouzela-Benfica
+Futebol-Difícil-Em que época é que o Benfica ganhou o 38º campeonato de futebol?- 2004/2005, 2020/2021, 2022/2023, 2014/2015, 2018/2019- 2022/2023
+Futebol-Fácil-Quem ganhou a premier league na época 2015/2016- Liverpool, NewCastle, Crystal Palace, Leicester City, Manchester City- Leicester City
+Futebol-Difícil-Em que época é que o Leicester City ganhou a premier league-2004/2005, 2011/2012, 2022/2023, 2015/2016, 2018/2019- 2015/2016
