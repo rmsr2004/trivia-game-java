@@ -1,3 +1,7 @@
+# Final Project Java - 2ºY 1ºS
+
+This project aim is to develop a trivia game using the concept of Object-orientated programming. The interface was designed on Java Swing.
+
 Para inicializar o jogo pelo terminal é necessário:
 
     1 - cd /pasta/onde/esta/POOtrivia
